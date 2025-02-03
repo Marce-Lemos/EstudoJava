@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ControleDeFluxos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Operadores" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PrimeiraClasse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PrimeiraClasse/src" vcs="Git" />
   </component>
 </project>
